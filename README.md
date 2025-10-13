@@ -1,37 +1,104 @@
-[![MasterHead]((https://lh7-rt.googleusercontent.com/formsz/AN7BsVCpXvZn0fYeoPMMfgqXlGNOvWuscnkmuhhn4xu2T_UMlAYwQDCyFRoSw4S_LfXqU9QQwUy6cxFPvfokRHPy2A-OoTST-RTtU7K9FWguatuwRPbptGLZMc6mXsBC6LppHOCmRH_vT_N6in24r3IYNp9lndJo5Oqpda8hDE3W6JJtURDzlyIZAHROr5Z3sccuaSrG5wb_7ghHbyQ=w1600?key=R1UTN-pQFHfx2BLjj4gw7A))](https://mohan-i.vercel.app)
-<h1 align="center">Hi 👋, I'm Mohan Yadav</h1>
-<h3 align="center">A passionate React Web & App developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif">
+[![MasterHead](https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif)](https://mohan-i.vercel.app)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohan-i&label=Profile%20views&color=0e75b6&style=flat" alt="mohan-i" /> </p>
+<div align="center">
 
-<p align="left"> <a href="https://twitter.com/mohan_yadav_dev" target="blank"><img src="https://img.shields.io/twitter/follow/mohan_yadav_dev?logo=twitter&style=for-the-badge" alt="mohan_yadav_dev" /></a> </p>
+# <span style="font-family: 'Orbitron', sans-serif;">👋 GREETINGS, I'M MOHAN YADAV</span>
 
-- 🔭 I’m currently working on **React CRMs**
+### <span style="font-family: 'Exo 2', sans-serif;">🚀 React Web & App Developer | Digital Artisan | Code Alchemist</span>
 
-- 🌱 I’m currently learning **React JS, Node JS & Bootstrap**
+</div>
 
-- 💬 Ask me about **Android, React & Bootstrap**
+<div align="center">
 
-- 📫 How to reach me **MohanDev24x7@gmail.com**
+![Profile Views](https://komarev.com/ghpvc/?username=mohan-i&label=PROFILE+VISITORS&color=00ff88&style=for-the-badge)
+![Twitter Follow](https://img.shields.io/twitter/follow/mohan_yadav_dev?logo=twitter&style=for-the-badge&color=1da1f2)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ChH5qChfaUYT68FG2cKf3BupwcZwhqjU/view?usp=sharing](https://drive.google.com/file/d/1ChH5qChfaUYT68FG2cKf3BupwcZwhqjU/view?usp=sharing)
+</div>
 
-- ⚡ Fun fact **I create Digital Arts**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/mohan-yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mohan-yadav" height="30" width="40" /></a>
-<a href="https://twitter.com/mohan_yadav_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohan_yadav_dev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mohan yadav developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohan yadav developer" height="30" width="40" /></a>
-<a href="https://instagram.com/mohansh54" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohansh54" height="30" width="40" /></a>
-</p>
+## <span style="font-family: 'Orbitron', sans-serif;">🛠 CURRENT MISSION</span>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+- **🔭 Active Project:** Building advanced **React CRMs** with cutting-edge features
+- **🌱 Skill Enhancement:** Mastering **React JS, Node JS & Bootstrap** ecosystems
+- **⚡ Secret Power:** Creating stunning **Digital Arts** in parallel universe
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohan-i&show_icons=true&locale=en&layout=compact" alt="mohan-i" /></p>
+## <span style="font-family: 'Orbitron', sans-serif;">📡 COMMUNICATION CHANNELS</span>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohan-i&show_icons=true&locale=en" alt="mohan-i" /></p>
+<div align="center">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohan-i&" alt="mohan-i" /></p>
+[![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/mohan-yadav)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mohan_yadav_dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohan-yadav-developer)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mohansh54)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:MohanDev24x7@gmail.com)
+
+</div>
+
+## <span style="font-family: 'Orbitron', sans-serif;">📄 MISSION DOSSIER</span>
+
+[![Resume](https://img.shields.io/badge/📄_VIEW_MISSION_DOSSIER-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1ChH5qChfaUYT68FG2cKf3BupwcZwhqjU/view?usp=sharing)
+
+---
+
+## <span style="font-family: 'Orbitron', sans-serif;">🛰 TECH ARSENAL</span>
+
+### <span style="font-family: 'Exo 2', sans-serif;">🌐 Frontend Development</span>
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### <span style="font-family: 'Exo 2', sans-serif;">⚙️ Backend & Mobile</span>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+### <span style="font-family: 'Exo 2', sans-serif;">🗄️ Databases & Tools</span>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### <span style="font-family: 'Exo 2', sans-serif;">🎨 Creative Suite</span>
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+
+---
+
+## <span style="font-family: 'Orbitron', sans-serif;">📊 MISSION STATISTICS</span>
+
+<div align="center">
+
+<!-- GitHub Stats -->
+<a href="https://github.com/mohan-i">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohan-i&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00ff88&text_color=ffffff&icon_color=00ff88"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohan-i&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=ffffff&langs_count=8"/>
+</a>
+
+<!-- Streak Stats -->
+<a href="https://github.com/mohan-i">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mohan-i&theme=radical&hide_border=true&background=0d1117&stroke=00ff88&ring=00ff88&fire=00ff88&currStreakLabel=00ff88"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### <span style="font-family: 'Orbitron', sans-serif;">🚀 READY FOR INTERSTELLAR COLLABORATION</span>
+
+![Stars](https://img.shields.io/badge/⭐_STAR_MY_PROJECTS-FFD700?style=for-the-badge)
+![Follow](https://img.shields.io/badge/👁_WATCH_MY_JOURNEY-00FF88?style=for-the-badge)
+
+*"Code is poetry in motion, every line a brushstroke on the digital canvas"*
+
+</div>
