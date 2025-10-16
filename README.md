@@ -160,6 +160,6 @@
 <br/>
 
 <!-- Snake animation -->
-![Snake animation](https://github.com/mohan-i/mohan-i/blob/output/github-contribution-grid-snake.svg)
+![Snake animation]([https://github.com/mohan-i](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg))
 
 </div>
