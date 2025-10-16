@@ -3,7 +3,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=35&duration=4000&color=00FF88&center=true&vCenter=true&width=500&height=70&lines=👋+GREETINGS,+I'M+MOHAN+YADAV" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=35&duration=8000&color=00FF88&center=true&vCenter=true&width=500&height=70&lines=👋+GREETINGS,+I'M+MOHAN+YADAV" alt="Typing SVG" />
 
 ### <span style="font-family: 'Exo 2', sans-serif;">🚀 React Web & App Developer | Digital Artisan | Code Alchemist</span>
 
@@ -52,7 +52,7 @@
 ## <span style="font-family: 'Orbitron', sans-serif;">🛰 TECH ARSENAL</span>
 
 ### <span style="font-family: 'Exo 2', sans-serif;">🌐 Frontend Development</span>
-<div align="center">
+<div>
   
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -65,7 +65,7 @@
 </div>
 
 ### <span style="font-family: 'Exo 2', sans-serif;">⚙️ Backend & Mobile</span>
-<div align="center">
+<div>
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -77,7 +77,7 @@
 </div>
 
 ### <span style="font-family: 'Exo 2', sans-serif;">🗄️ Databases & Tools</span>
-<div align="center">
+<div>
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -86,7 +86,7 @@
 </div>
 
 ### <span style="font-family: 'Exo 2', sans-serif;">🎨 Creative Suite</span>
-<div align="center">
+<div>
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
@@ -160,6 +160,6 @@
 <br/>
 
 <!-- Snake animation -->
-![Snake animation](<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake svg">))
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake svg">
 
 </div>
