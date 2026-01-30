@@ -209,9 +209,9 @@
 
 <!-- Quote -->
 <div style="background: linear-gradient(135deg, #0d1117 0%, #161b22 100%); padding: 20px; border-radius: 15px; border: 2px solid #00ff88; box-shadow: 0 0 20px rgba(0, 255, 136, 0.3);">
-  <p style="color: #ffffff; font-size: 1.2em; font-style: italic; margin: 0;">
-    "Building the logic of today to architect the cloud of tomorrow—one step from zero to mastery."  
-  </p>
+
+    **`"Building the logic of today to architect the cloud of tomorrow—one step from zero to mastery."`**  
+
 </div>
 
 <br/>
