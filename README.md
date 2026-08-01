@@ -87,7 +87,7 @@
       </a>
     </td>
     <td align="center">
-      <a href="mailto:MohanDev24x7@gmail.com">
+      <a href="mailto:mohanshyadav@gmail.com">
         <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
       </a>
     </td>
@@ -200,7 +200,7 @@
   <a href="https://mohan-i.vercel.app/">
     <img src="https://img.shields.io/badge/🌐_VISIT_PORTFOLIO-1DA1F2?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit Portfolio">
   </a>
-  <a href="mailto:MohanDev24x7@gmail.com">
+  <a href="mailto:mohanshyadav@gmail.com">
     <img src="https://img.shields.io/badge/📧_CONTACT_ME-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Me">
   </a>
 </p>
