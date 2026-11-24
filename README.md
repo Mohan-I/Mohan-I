@@ -175,6 +175,7 @@
 
 ## 📄 MISSION DOSSIER
 
+[![MasterHead](./hero.webp)](https://mohan-i.vercel.app)
 <div align="center">
 
 [![Resume](https://img.shields.io/badge/📄_VIEW_RESUME-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1ChH5qChfaUYT68FG2cKf3BupwcZwhqjU/view?usp=sharing)
